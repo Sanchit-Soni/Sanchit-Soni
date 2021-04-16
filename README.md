@@ -18,6 +18,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -42,7 +43,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sanchit-soni-2318a61b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sanchit%Soni%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sanchit-soni-2318a61b2/"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 <a href="https://www.instagram.com/sanchit__soni/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sanchit__soni-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sanchitsony@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sanchitsony@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
