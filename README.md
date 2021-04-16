@@ -43,9 +43,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sanchit-soni-2318a61b2/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=flat-square&logo=linkedin" />
-</a>
+<a href="https://www.linkedin.com/in/sanchit-soni-2318a61b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sanchit%20Soni-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sanchit__soni/"  target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sanchit__soni-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sanchitsony@gmail.com"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-sanchitsony@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
