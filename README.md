@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Sanchit.</h2>
+<h1> Hey there! I'm Sanchit.</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
