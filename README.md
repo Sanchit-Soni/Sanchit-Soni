@@ -1,7 +1,7 @@
 
 <h1> Hey there! I'm Sanchit.</h1>
 
-<h2> 👨🏻‍💻 &nbsp;About Me  </h3>
+<h2> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at Lakshmi Narain College Of Technology.
